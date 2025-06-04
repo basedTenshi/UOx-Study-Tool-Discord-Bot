@@ -15,6 +15,5 @@ async def hello(ctx):
     await ctx.send("Hello")
 # Bot token so that our bot connects sa discord and go online
 
-#token
-bot.run("TOKEN")
+bot.run("token is located at the bot-token channel")
 
